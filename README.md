@@ -1,4 +1,6 @@
 ## boas vindas ao meu perfil
+## sou estudante
+## vaaaaiii palmeiras
 
 meu nome é gabriel
 
